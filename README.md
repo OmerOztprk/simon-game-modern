@@ -2,6 +2,10 @@
 
 A modern, responsive implementation of the classic Simon memory game with sleek design and smooth animations.
 
+## Live Preview
+
+Experience the game here: [Simon Game - Live Preview](https://omeroztprk.github.io/projects/project2-simon-game-modern/)
+
 ## Features
 
 - **Modern UI/UX** - Sleek dark theme with neon accents
